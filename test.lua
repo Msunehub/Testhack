@@ -1131,7 +1131,7 @@ end)
 local u5 = require(game.ReplicatedStorage:WaitForChild("Notification"))
 spawn(function()
     while wt() do
-        u5.new("<Color=Orange>BOUNTY MATSUNE ON TOP<Color=/>"):Display()
+        u5.new("<Color=Orange>Ai Có Dragon Ib Gamer144<Color=/>"):Display()
         wt(34)
     end
 end)
